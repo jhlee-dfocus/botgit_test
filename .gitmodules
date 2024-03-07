@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/dfocusgpt/doc2.git
+	branch = gh-pages
