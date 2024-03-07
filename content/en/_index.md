@@ -15,7 +15,7 @@ title: DfocusGPT
 
 
 {{% blocks/lead color="primary" %}}
-DfocusGPT는 반복되는 어려운 업무에 지친 당신에게 새로운 희망을 가져다 줍니다. **DfocusGPT** 를 살펴 보세요!.
+DfocusGPT는 반복되는 어려운 업무에  지친 당신에게 새로운 희망을 가져다 줍니다. **DfocusGPT** 를 살펴 보세요!.
 
 {{% /blocks/lead %}}
 
