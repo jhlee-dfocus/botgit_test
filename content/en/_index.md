@@ -9,7 +9,7 @@ title: DfocusGPT
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://gpt.dfocus.net">
   DfocusGPT <i class="fab ms-2 "></i>
 </a>
-<p class="lead mt-5"> 바로 시작 &mdash; 클라우드에서!</p>
+<p class="lead mt-5"> 바로 시작 &mdash; 클라우드에서 !</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
