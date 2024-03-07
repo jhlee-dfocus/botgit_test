@@ -1,32 +1,27 @@
 ---
-title: Goldydocs
+title: DfocusGPT
 ---
 
-{{< blocks/cover title="Welcome 확인 to Goldydocs: A Docsy Example Project!" image_anchor="top" height="full" >}}
+{{< blocks/cover title="DfocusGPT: 바로 사용하는 상담봇!" image_anchor="top" height="full" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+  매뉴얼 <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
-  Download <i class="fab fa-github ms-2 "></i>
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://gpt.dfocus.net">
+  DfocusGPT <i class="fab ms-2 "></i>
 </a>
-<p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p>
+<p class="lead mt-5"> 바로 시작 &mdash; 클라우드에서!</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
 
 {{% blocks/lead color="primary" %}}
-Goldydocs provides a single web UI providing visibility into porridge
-temperature, chair size, and bed softness metrics! You can even find out who's
-been eating **your** porridge.
+DfocusGPT는 반복되는 어려운 업무에 지친 당신에게 새로운 희망을 가져다 줍니다. **DfocusGPT** 를 살펴 보세요!.
 
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
 {{% /blocks/lead %}}
-
 
 {{% blocks/section color="dark" type="row" %}}
 {{% blocks/feature icon="fa-lightbulb" title="New chair metrics!" %}}
-The Goldydocs UI now shows chair size metrics by default.
+The DfocusGPT UI now shows chair size metrics by default.
 
 Please follow this space for updates!
 {{% /blocks/feature %}}
@@ -46,7 +41,7 @@ For announcement of latest features etc.
 
 
 {{% blocks/section %}}
-This is the second section
+두번째 섹션입니다
 {.h1 .text-center}
 {{% /blocks/section %}}
 
@@ -54,7 +49,7 @@ This is the second section
 {{% blocks/section type="row" %}}
 
 {{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**" %}}
-Get the Goldydocs app!
+Get the DfocusGPT app!
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
@@ -72,6 +67,6 @@ For announcement of latest features etc.
 
 
 {{% blocks/section %}}
-This is the another section
+또 다른 섹션입니다.
 {.h1 .text-center}
 {{% /blocks/section %}}
