@@ -41,7 +41,7 @@ For announcement of latest features etc.
 
 
 {{% blocks/section %}}
-두번째 섹션입니다
+두번째 섹션입니다 
 {.h1 .text-center}
 {{% /blocks/section %}}
 
@@ -67,6 +67,6 @@ For announcement of latest features etc.
 
 
 {{% blocks/section %}}
-또 다른 섹션입니다.
+또 다른 섹션입니다.  
 {.h1 .text-center}
 {{% /blocks/section %}}
