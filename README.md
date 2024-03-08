@@ -1,3 +1,9 @@
+
+
+deploy on github .. just workflow 
+
+https://gohugo.io/hosting-and-deployment/hosting-on-github/
+
 # Docsy Example
 
 [Docsy][] is a [Hugo theme module][] for technical documentation sites, providing easy
