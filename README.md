@@ -1,4 +1,5 @@
 
+3/8 change project name to manual
 
 deploy on github .. just workflow 
 
