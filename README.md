@@ -1,4 +1,6 @@
 
+change project name to dfocusgpt.github.io
+
 3/8 change project name to manual
 
 deploy on github .. just workflow 
