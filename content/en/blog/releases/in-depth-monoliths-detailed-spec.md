@@ -1,10 +1,18 @@
 ---
-title: Another Great Release
-date: 2018-01-04
+title: 첫 번째 릴리즈 0.9
+date: 2024-03-01
 description: >
-  A short lead description about this content page. Text here can also be
-  **bold** or _italic_ and can even be split over multiple paragraphs.
+  DfocusGPT 챗봇의 버전 0.9의 릴리즈 정보입니다.
 ---
+
+> 이런 점에서 ..
+
+## 기능 업데이트 
+1. 챗봇 기능
+  챗 ㅂ...
+2. 상담원 기능 
+3. 통계 기능
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
 
