@@ -15,25 +15,26 @@ title: DfocusGPT
 
 
 {{% blocks/lead color="primary" %}}
-DfocusGPT는 반복되는 어려운 업무에  지친 당신에게 새로운 희망을 가져다 줍니다. **DfocusGPT** 를 살펴 보세요!.
+DfocusGPT는 힘들게 반복되는 업무에 지친 당신의 건강에 새로운 희망입니다. **DfocusGPT** 를 둘러 보세요!.
 
 {{% /blocks/lead %}}
 
 {{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fa-lightbulb" title="New chair metrics!" %}}
-The DfocusGPT UI now shows chair size metrics by default.
 
-Please follow this space for updates!
+{{% blocks/feature icon="fa-lightbulb" title="노 코드 챗봇!" %}}
+DfocusGPT는 새로운 코딩 작업이나 전문 지식의 학습이 필요하지 않습니다. 
+업무 매뉴얼 관리자가 인공지능 상담봇을 관리합니다.
+
 {{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls) contributions workflow on **GitHub**. New users are always welcome!
+{{% blocks/feature icon="fa-solid fa-feather" title="상담 매뉴얼의 관리!" url="https://botmanual.dfocus.net/docs/" %}}
+블로그 관리하듯이 매뉴얼만 관리하세요! 이미지 붙여 넣기와 일괄 업로드도 지원합니다.
 {{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
-For announcement of latest features etc.
+{{% blocks/feature icon="fab fa-facebook" title="페이스북 정보!" url="https://www.facebook.com/DfocusSns/" %}}
+디포커스의 다른 솔루션 정보도 살펴 보세요.
 {{% /blocks/feature %}}
 
 
@@ -41,8 +42,9 @@ For announcement of latest features etc.
 
 
 {{% blocks/section %}}
-두번째 섹션입니다 
-{.h1 .text-center}
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://gpt.dfocus.net">
+  여기를 눌려 DfocusGPT를 사용해 보세요 <i class="fab ms-2 "></i>
+</a>
 {{% /blocks/section %}}
 
 
