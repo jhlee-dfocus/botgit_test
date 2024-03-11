@@ -5,6 +5,8 @@ description: >
   What does your user need to understand about your project in order to use it - or potentially contribute to it?
 ---
 
+<img width="235" alt="image" src="https://github.com/dfocusgpt/dfocusgpt.github.io/assets/143764176/2fa76cdf-41e7-499a-af70-1cd1ac7522ec">
+
 {{% pageinfo %}}
 This is a placeholder page that shows you how to use this template site.
 {{% /pageinfo %}}
