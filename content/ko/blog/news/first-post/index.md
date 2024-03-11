@@ -1,11 +1,10 @@
 ---
-date: 2018-10-06
-title: Easy documentation with Docsy
-linkTitle: Announcing Docsy
+date: 2024-03-01
+title: DfocusGPT로 자동 상담 챗봇 만들기
+linkTitle: DfocusGPT 챗봇 출시
 description: >
-  The Docsy Hugo theme lets project maintainers and contributors focus on content,
-  not on reinventing a website infrastructure from scratch
-author: Riona MacNamara ([@rionam](https://twitter.com/bepsays))
+  DfocusGPT로 만든 챗봇은 LLM이 가진 능력을 기업 고유의 일상 업무에 활용하여 생산성을 높이는데 사용됩니다.  
+author: Jungho Lee ([@DfocusSns](https://www.facebook.com/DfocusSns))
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"

@@ -2,16 +2,16 @@ baseURL = "/"
 title = "DfocusGPT"
 
 # Language settings
-contentDir = "content/en"
-defaultContentLanguage = "en"
+contentDir = "content/ko"
+defaultContentLanguage = "ko"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
-enableMissingTranslationPlaceholders = true
+enableMissingTranslationPlaceholders = false
 
 enableRobotsTXT = true
 
 # Will give values to .Lastmod etc.
-enableGitInfo = true
+enableGitInfo = false
 
 # Comment out to enable taxonomies in Docsy
 # disableKinds = ["taxonomy", "taxonomyTerm"]
@@ -54,13 +54,14 @@ anchor = "smart"
 # Language configuration
 
 [languages]
-[languages.en]
-languageName ="English"
-# Weight used for sorting.
-weight = 1
-[languages.en.params]
+[languages.ko]
+languageName ="Korean"
+contentDir = "content/ko"
+[languages.ko.params]
 title = "DfocusGPT"
-description = "DfocusGPT site"
+description = "DfocusGPT 매뉴얼 페이지"
+time_format_default = "2006.12.31"
+time_format_blog = "2006.12.31"
 
 [markup]
   [markup.goldmark]
