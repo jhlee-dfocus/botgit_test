@@ -1,5 +1,5 @@
 ---
-title: 사용자 매뉴얼
+title: DfocusGPT 사용자 매뉴얼
 linkTitle: 문서
 menu: {main: {weight: 20}}
 weight: 20
