@@ -10,7 +10,23 @@ resources:
       byline: "Photo: Jungho Lee / CC-BY-CA"
 ---
 
+This code translates to the right aligned tabbed pane below, showing a `Welcome!` greeting in English, German or Swahili:
 
+{{< tabpane text=true right=true >}}
+  {{% tab header="**Languages**:" disabled=true /%}}
+  {{% tab header="Korean" lang="ko" %}}
+  ![Flag Unitedddd Kingdom](featured-iquest1-get.png)
+  **Welcome!**
+  {{% /tab %}}
+  {{< tab header="German" lang="ko" >}}
+    <b>Herzlich willkommen!</b>
+    <img src="featured-iquest1-get.png" alt="Flag Germany" style="float: right; padding: 0 0 0 0px">
+  {{< /tab >}}
+  {{% tab header="Swahili" lang="sw" %}}
+  ![Flag Tanzania](./featured-iquest1-get.png)
+  **Karibu sana!**
+  {{% /tab %}}
+{{< /tabpane >}}
 
 ## Including images
 
