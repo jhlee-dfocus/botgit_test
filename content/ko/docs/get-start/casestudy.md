@@ -3,19 +3,19 @@ title: 사례
 date: 2024-03-11
 description: >
   DfocusGPT가 적용된 사이트에서 어떻게 사용되고 있는지에 대한 예시 정보입니다.
-categories: [사례]
-tags: [참조 사이트, 예시]
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"
     params:
-      byline: "capture: Jungho Lee"
+      byline: "Photo: Jungho Lee / CC-BY-CA"
 ---
 
 
-{{% pageinfo %}}
-아래 각 홈페이지 답변 봇과 ERP 상담 봇의 사례입니다.
-{{% /pageinfo %}}
+
+## Including images
+
+이미지가 들어 가면 에러???
+blog 에는 잘도 들어 가는데???
 
 
 > 아래 각 고객 정보는 사전 동의하에 게시된 것이나, 이를 무단 복제하는 행위는 엄격하게 금지됩니다. 
