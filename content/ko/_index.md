@@ -4,10 +4,9 @@ title: DfocusGPT
 
 {{< blocks/cover title="DfocusGPT: 바로 사용하는 상담봇!" image_anchor="top" height="full" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  매뉴얼 <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+  설명서 <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://gpt.dfocus.net">
-  DfocusGPT <i class="fab ms-2 "></i>
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://gpt.dfocus.net">DfocusGPT<i class="fab ms-2 "></i>
 </a>
 <p class="lead mt-5"> 바로 시작 &mdash; 클라우드에서 !</p>
 {{< blocks/link-down color="info" >}}
@@ -42,8 +41,8 @@ DfocusGPT는 새로운 코딩 작업이나 전문 지식의 학습이 필요하�
 
 
 {{% blocks/section %}}
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://gpt.dfocus.net">
-  여기를 눌려 DfocusGPT를 사용해 보세요 <i class="fab ms-2 "></i>
+<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+  여기를 눌려 DfocusGP 가이드를 둘러 보세요 <i class="fab ms-2 "></i>
 </a>
 {{% /blocks/section %}}
 

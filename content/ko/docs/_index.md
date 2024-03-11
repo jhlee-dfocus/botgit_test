@@ -1,29 +1,14 @@
 ---
 title: DfocusGPT 사용자 매뉴얼
-linkTitle: 문서
+linkTitle: 설명서
 menu: {main: {weight: 20}}
 weight: 20
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+목차입니다.
 {{% /pageinfo %}}
 
-This section is where the user documentation for your project lives - all the
-information your users need to understand and successfully use your project.
+디포커스는 Digital 기반으로 BI 제품들을 국내외 고객들에게 성공적인 구축 서비스를 제공해 온 노하우를 바탕으로 다양한 SaaS 서비스를 출시하고 있습니다. 기업형 인공지능 챗봇인, [DfocusGPT](https://gpt.dfocus.net/)는 특히 ChatGPT를 비롯한 생성형 AI 시장의 활성화에도 불구하고, 이의 혜택을 누리기 위한 투자 리스크를 고민하는 고객들에게 합리적인 가격으로 필요한 서비스를 제공하고 있습니다.  
 
-For large documentation sets we recommend adding content under the headings in
-this section, though if some or all of them don’t apply to your project feel
-free to remove them or add your own. You can see an example of a smaller Docsy
-documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which
-lives in the [Docsy theme
-repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to
-copy its docs section.
-
-Other content such as marketing material, case studies, and community updates
-should live in the [About](/about/) and [Community](/community/) pages.
-
-Find out how to use the Docsy theme in the [Docsy User
-Guide](https://docsy.dev/docs/). You can learn more about how to organize your
-documentation (and how we organized this site) in [Organizing Your
-Content](https://docsy.dev/docs/best-practices/organizing-content/).
+아래 설명서 목차입니다. 다른 정보는 [우리는](/about/) 페이지와 [블로그](/blog/) 페이지를 참조하세요.

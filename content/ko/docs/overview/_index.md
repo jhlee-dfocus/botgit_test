@@ -1,6 +1,6 @@
 ---
-title: Overview
-description: Here's where your user finds out if your project is for them.
+title: 개요
+description: DfocusGPT가 만들어지게 된 기본 배경과 용도입니다.
 weight: 1
 ---
 
