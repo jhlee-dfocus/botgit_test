@@ -20,7 +20,7 @@ DfocusGPT는 2024년 발전하는 LLM를 비롯한 인공지능 기술의 성과
 
 {{% blocks/section %}}
 
-# gpt.dfocus.net 에서 ai 챗봇을 경험하세요
+# gpt.dfocus.net 에서 바로 쓰는 상담형 ai 챗봇을 경험하세요
 
 {.text-center}
 
