@@ -50,25 +50,15 @@ DfocusGPT는 새로운 코딩 작업이나 전문 지식의 학습이 필요하�
 
 {{% blocks/section type="row" %}}
 
-{{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**" %}}
-Get the DfocusGPT app!
+{{% blocks/feature icon="fab fa-app-store-ios" title=" **AppStore** 다운로드 " %}}
+DfocusGPT 앱 - 준비중!
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
-    url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls)
-contributions workflow on **GitHub**. New users are always welcome!
+{{% blocks/feature icon="fab fa-twitter" title="디포커스 유튜브!"
+    url="https://www.youtube.com/@dfocus_sns" %}}
+디포커스 유튜브를 살펴 보세요.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!"
-    url="https://twitter.com/GoHugoIO" %}}
-For announcement of latest features etc.
-{{% /blocks/feature %}}
 
 {{% /blocks/section %}}
 
-
-{{% blocks/section %}}
-또 다른 섹션입니다.  
-{.h1 .text-center}
-{{% /blocks/section %}}
