@@ -2,7 +2,7 @@
 title: 사례
 date: 2024-03-11
 description: >
-  DfocusGPT가 적용된 사이트에서 어떻게 사용되고 있는지에 대한 예시 정보입니다.
+  DfocusGPT가 적용된 사이트에서 어떻게 사용되고 있는지에 대한 사례입니다.
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"
@@ -15,21 +15,17 @@ resources:
 
 ## 아이퀘스트 ERP 상담봇
 
-[아이퀘스트](https://www.iquest.co.kr/)는 얼마에요ERP를 비롯하여 인공지능 자동화 기능으로 편리한 사용할 수 있는 중소기업용 ERP를 합리적인 가격으로 제공하는 회사입니다. 아이퀘스트의 활성 가입자는 3만명 수준이고, 홈페이지 방문자 수는 월 10만을 넘어 가고 있습니다. 대 고객 상담사는 10명 이상으로, 
+[아이퀘스트](https://www.iquest.co.kr/)는 얼마에요ERP를 비롯하여 인공지능 자동화 기능으로 편리한 사용할 수 있는 중소기업용 ERP를 합리적인 가격으로 제공하는 회사입니다. 아이퀘스트의 활성 가입자는 3만명 수준이고, 홈페이지 방문자 수는 월 10만을 훨씬 넘어 가고 있습니다. 대 고객 상담사는 10명 이상으로, 단순한 질문에 대한 답변을 포함하여 여러 수준의 고객들을 대상으로 다양한 솔루션에 대한 가이드를 설명해야 하는 임무를 맡고 있습니다.
 
+DfocusGPT 상담봇은 이러한 상담사의 역할 중에서 초기 대응 및 단순 답변을 자연어 기반으로 제공합니다.
 
 
 
 ## 디포커스 홈페이지 챗봇
 
+[디포커스](https://dfocus.net/)는 Digital Data에 대한 글로벌 솔루션을 비롯하여 자체 솔루션을 기반으로 업계 최고 수준의 시스템 구축을 돕는 프로젝트들을 국내외 유수 업체들과 함께 진행한 경험을 가지고 있습니다. 
 
-```
-This is a code block following a header.
-```
-
-Next level leggings before they sold out, PBR&B church-key shaman echo park. Kale chips occupy godard whatever pop-up freegan pork belly selfies. Gastropub Belinda subway tile woke post-ironic seitan. Shabby chic man bun semiotics vape, chia messenger bag plaid cardigan.
-
-
+오랜동안 축적된 솔루션 경험에 대하여 전문적으로 이해하고 설명하는 것은 심지어 디포커스 내부 전문가라 하더라도 쉽지 않은 일입니다. 그 지식의 내용이 너무 많기 때문입니다. 디포커스 홈페이지 챗봇은 디포커스의 축적된 솔루션 경험에 대한 답변을 자연어 기반으로 제공합니다.
 
 ----------------
 ### 주의
