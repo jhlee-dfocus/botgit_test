@@ -7,10 +7,19 @@ weight: 2
 ---
 
 {{% pageinfo %}}
-This is a placeholder page. Replace it with your own content.
+고객이 자주 물어보는 질문과 답변에 대하여 관리합니다.
 {{% /pageinfo %}}
 
-작업 중
+![QA 관리 화면](/docs/tasks/image.png)
 
-![alt text](/docs/tasks/QA.png)
-![챗봇 문구 설정 화면](/docs/reference/image.png)
+1. 추가 - FAQ를 추가합니다. 
+2. 수정 - FAQ를 수정합니다.
+3. 삭제 - FAQ를 삭제합니다.
+4. 문서 업로드 - 문서 업로드 기능은 일괄 업로드 항목을 참조하세요.
+5. 지식DB 반영하기 -  
+6. 검색 - 
+
+### FAQ 추가하기
+
+
+
