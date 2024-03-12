@@ -1,7 +1,7 @@
 ---
-title: Core Tasks
+title: 주요 기능들
 description: What can your user do with your project?
-date: 2017-01-05
+date: 2024-01-05
 weight: 6
 ---
 

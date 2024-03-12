@@ -1,13 +1,17 @@
 ---
-title: Examples
+title: 챗봇 질문 예시
 weight: 3
-date: 2017-01-05
-description: See your project in action!
+date: 2024-01-05
+description: 챗봇을 어떻게 사용하는지의 예시입니다!
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+챗봇에 어떻게 질문하는가에 따라서 챗봇은 다른 답변을 내놓습니다.
 {{% /pageinfo %}}
 
-Do you have any example **applications** or **code** for your users in your repo
-or elsewhere? Link to your examples here.
+1. 요약 요청
+2. 정보 요청
+
+다음은 여러 내용에 대하여 요약 질의에 대한 답변입니다.
+
+

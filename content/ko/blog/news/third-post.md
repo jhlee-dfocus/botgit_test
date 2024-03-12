@@ -1,8 +1,8 @@
 ---
-title: DfocusGPT 질문과 답변의 흐름도
+title: DfocusGPT 기본 흐름도
 date: 2024-01-03
 description: >
-  DfocusGPT 질문과 답변에 대한 기본 흐름입니다.
+  DfocusGPT 질문과 답변의 과정에 대한 기본 흐름입니다.
 ---
 
 

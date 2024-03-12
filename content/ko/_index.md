@@ -6,7 +6,7 @@ title: DfocusGPT
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   설명서 <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://gpt.dfocus.net">DfocusGPT<i class="fab ms-2 "></i>
+<a class="btn btn-lg btn-secondary me-3 mb-4" >Demo(준비중)<i class="fab ms-2 "></i>
 </a>
 <p class="lead mt-5"> 바로 시작 &mdash; 클라우드에서 !</p>
 {{< blocks/link-down color="info" >}}
@@ -14,7 +14,7 @@ title: DfocusGPT
 
 
 {{% blocks/lead color="primary" %}}
-DfocusGPT는 힘들게 반복이 되는 업무에 지친 당신의 건강에 새로운 희망입니다. **DfocusGPT** 를 둘러 보세요!.
+DfocusGPT는 힘들고 나아지지 않는 반복된 업무에 지쳐가기만 하는 당신의 건강에 새로운 희망입니다. **DfocusGPT** 를 둘러 보세요!.
 
 {{% /blocks/lead %}}
 

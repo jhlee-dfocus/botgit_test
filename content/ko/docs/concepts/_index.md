@@ -1,16 +1,17 @@
 ---
-title: Concepts
+title: 개념
 weight: 4
 description: >
-  What does your user need to understand about your project in order to use it - or potentially contribute to it?
+  당신의 고객은 챗봇에 대하여 어떤 생각을 가지고 있을까요? 당신의 고객에게 어떤 서비스를 제공하고자 하나요?
 ---
 
-<img width="235" alt="image" src="https://github.com/dfocusgpt/dfocusgpt.github.io/assets/143764176/2fa76cdf-41e7-499a-af70-1cd1ac7522ec">
+1. 지식 격차의 축소 - 현대 문명 사회에서 지식의 확산은 더 이상 사람 대 사람으로 진행되지 않습니다. 위키피디아와 구글 이래로 세상의 모든 지식은 더 이상 특정인과 집단의 전유물로 유지되는 기간이 거의 없어진 상황이 되었습니다. 피터 드러커의 말처럼 새로운 지식은 세상에 나오자 말자 더 이상 새롭지 않게 되고, 지속적으로 새로운 지식을 위해 노력해야 합니다. 피터 드러커 자신이 평생 동안 연구와 집필을 하였습니다.
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+2. 서비스 관련 지식의 즉시 제공 - 소프트웨어를 만들어 배포하고 소유하여 설치하고 업그레이드하는 과정은 여전히 존재하지만, 세상은 더 이상 그렇게 느리고 비효율적인 방식으로 경쟁력을 갖추기 어렵게 되었습니다. 서비스는 직관적이고 빠르게 제공되어 사용되어야 합니다. 인공지능 챗봇은 그 과정을 혁신할 수 있는 잠재력이 있습니다.
 
-For many projects, users may not need much information beyond the information in the [Overview](/docs/overview/), so this section is **optional**. However if there are areas where your users will need a more detailed understanding of a given term or feature in order to do anything useful with your project (or to not make mistakes when using it) put that information in this section. For example, you may want to add some conceptual pages if you have a large project with many components and a complex architecture.
+3. 직관적인 서비스 - 소비자는 많은 기능을 요구하지 않습니다. 너무 많은 제품들이 세상에 존재하고, 더 많은 제품들이 쏟아져 나오고 있습니다. 지금 바로 필요로 하는 서비스를 직관적으로 제공합니다.
 
-Remember to focus on what the user needs to know, not just what you think is interesting about your project! If they don’t need to understand your original design decisions to use or contribute to the project, don’t put them in, or include your design docs in your repo and link to them. Similarly, most users will probably need to know more about how features work when in use rather than how they are implemented. Consider a separate architecture page for more detailed implementation and system design information that potential project contributors can consult.
+DfocusGPT는 이러한 개념을 기반으로 서비스를 제공합니다. DfocusGPT는 지식 격차를 줄이고, 서비스 관련 지식을 즉시 제공하며, 직관적인 서비스를 제공합니다.
+
+
+
