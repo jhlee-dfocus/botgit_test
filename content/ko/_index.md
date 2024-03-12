@@ -14,7 +14,7 @@ title: DfocusGPT
 
 
 {{% blocks/lead color="primary" %}}
-DfocusGPT는 힘들게 반복되는 업무에 지친 당신의 건강에 새로운 희망입니다. **DfocusGPT** 를 둘러 보세요!.
+DfocusGPT는 힘들게 반복이 되는 업무에 지친 당신의 건강에 새로운 희망입니다. **DfocusGPT** 를 둘러 보세요!.
 
 {{% /blocks/lead %}}
 
