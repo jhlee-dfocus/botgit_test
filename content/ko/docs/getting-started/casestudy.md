@@ -10,7 +10,6 @@ resources:
       byline: "Photo: Jungho Lee / CC-BY-CA"
 ---
 
-
 > 아래 각 고객 정보는 사전 동의하에 게시된 것이나, 이를 무단 복제하는 행위는 엄격하게 금지됩니다. 
 
 ## 아이퀘스트 ERP 상담봇
@@ -19,7 +18,9 @@ resources:
 
 DfocusGPT 상담봇은 이러한 상담사의 역할 중에서 초기 대응 및 단순 답변을 자연어 기반으로 제공합니다.
 
-<img width="281" alt="image" src="https://github.com/dfocusgpt/dfocusgpt.github.io/assets/143764176/9bfa6b98-1dfd-468d-91b0-958de9e07167">
+<img width="281" alt="image" src="https://github.com/dfocusgpt/dfocusgpt.github.io/assets/143764176/9bfa6b98-1dfd-468d-91b0-958de9e07167"> 
+
+_얼마에요 4.0 버전은 클라우드 SaaS 솔루션입니다. 별도의 하드웨어 준비나 프로그램 설치가 없이 회원 가입만으로 바로 사용할 수 있다는 내용을 친절하게 답변하고 있습니다._
 
 
 ## 디포커스 홈페이지 챗봇
@@ -29,6 +30,8 @@ DfocusGPT 상담봇은 이러한 상담사의 역할 중에서 초기 대응 및
 오랜동안 축적된 솔루션 경험에 대하여 전문적으로 이해하고 설명하는 것은 심지어 디포커스 내부 전문가라 하더라도 쉽지 않은 일입니다. 그 지식의 내용이 너무 많기 때문입니다. 디포커스 홈페이지 챗봇은 디포커스의 축적된 솔루션 경험에 대한 답변을 자연어 기반으로 제공합니다.
 
 <img width="357" alt="image" src="https://github.com/dfocusgpt/dfocusgpt.github.io/assets/143764176/39a06ad2-60bc-4ea4-919c-86970939d36f">
+
+_디포커스는 SeedAuth 라는 2차 인증 솔루션을 제공하고 있습니다. 2차 인증 솔루션은 일반적인 프로그램 개발자도 이해하기 어려운 전문적인 내용이지만, DfocusGPT 챗봇은 LLM 기능을 이용하여 답변을 제공합니다._
 
 ----------------
 ### 주의

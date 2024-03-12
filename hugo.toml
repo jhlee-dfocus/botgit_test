@@ -60,8 +60,8 @@ contentDir = "content/ko"
 [languages.ko.params]
 title = "DfocusGPT"
 description = "DfocusGPT 매뉴얼 페이지"
-time_format_default = "2006.12.31"
-time_format_blog = "2006.12.31"
+time_format_default = "2006-Mar-01"
+time_format_blog = "2006-Mar-01"
 
 [markup]
   [markup.goldmark]
