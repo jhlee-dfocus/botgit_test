@@ -1,5 +1,5 @@
 ---
-title: Concepts
+title: Concepts 2
 weight: 4
 description: >
   What does your user need to understand about your project in order to use it - or potentially contribute to it?
@@ -11,7 +11,7 @@ resources:
 
 ---
 
-{{< imgproc sunset Fill "600x300" >}}
+{{< imgproc iquest1 Fill "600x300" >}}
 Fetch and scale an image in the upcoming Hugo 0.43.
 {{< /imgproc >}}
 

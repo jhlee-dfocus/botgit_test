@@ -5,32 +5,34 @@ weight: 1
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+DfocusGPT 는 인공지능 LLM 의 효능을 일상에 적용을 돕고자 만들어진 서비스입니다. 
 {{% /pageinfo %}}
 
+DfocusGPT의 솔루션 중에서 챗봇 서비스는 기업용 지식 데이터에 대한 정보가 부족한 LLM 의 한계를 극복하기 위하여 기업의 지식 데이터를 LLM 에 적용하는 과정을 자동화하여 제공합니다.
 
-The Overview is where your users find out about your project. Depending on the size of your docset, you can have a separate overview page (like this one) or put your overview contents in the Documentation landing page (like in the Docsy User Guide).
+## DfocusGPT 챗봇의 용도는 무엇인가요?
 
-Try answering these questions for your user in this page:
+1. 기업 내부의 데이터에 대한 이해가 없는 LLM 의 한계를 극복하고, 기업 내부의 데이터를 LLM 서비스에 결합하여 빠르고 정확한 정보를 제공합니다.
+2. 고객 상담 매뉴얼의 정보를 참고하여 대고객 응대 서비스를 빠르게 진행합니다. DfocusGPT 챗봇은 과거의 챗봇처럼 상담 룰을 설정하는 방식이 아닙니다.
 
-## What is it?
+## 지금 챗봇을 도입해야 하나요?
 
-Introduce your project, including what it does or lets you do, why you would use it, and its primary goal (and how it achieves it). This should be similar to your README description, though you can go into a little more detail here if you want.
+인류사에서 인간 지식 기능에 대한 시뮬레이션 오랜 기간의 시뮬레이션은 대부분 실망스러운 결과가 있었습니다. 특히 자연어에 대한 이해 및 생성 부분에서 거의 발전이 없다가 1. 엔비디아 그래픽카드 기술을 비롯한 하드웨어 기술의 발전 2. 트랜스포머를 비롯한 인공지능 모델의 발전을 통하여 많은 영역에서 인공지능의 능력이 증명되고 있습니다. 챗봇 도입을 미룬다는 것은 곧 타 사에 비하여 생산성 증대의 기회를 지연하는 것입니다.
 
-## Why do I want it?
+* **어디에 좋은가요?**: 
+1. **생산성 향상** : 기업 내부 지식은 보안이 필요하기 않은 정보임에도 정보가 필요한 사람들에게 즉각적으로 전달되지 않는 경우가 많습니다. 많은 임직원들이 단순한 정보의 수집에 시간 낭비가 많습니다.
+2. **고객 상담봇** : 고객 수가 많은 서비스 업체의 경우, 아주 단순한 질의를 위한 고객의 질문에도 상담사가 시간을 들여서 응대를 하기 위하여 많은 시간을 보내고 있습니다. 상담 과정에서 생기는 여러 가지 상황들은 때로 사회적 이슈로 되고 있습니다. DfocusGPT 상담 봇은 상담사에게도 고객에도 쾌적한 경험을 제공합니다.  
 
-Help your user know if your project will help them. Useful information can include:
+* **고려 사항은 어떤 것들이 있나요?**: 
+1. 지식 정보의 정리 및 관리 - 사내에 흩어져 있는 지식을 모아서 정리하는 과정이 필요합니다. 
+2. 상담사 업무 분장의 변화 - 기존에 상담사의 주 업무가 고객에 대한 응대였다면, 이제 챗봇이 고객에게 잘 응대할 수 있도록 관리해 주는 것이 주 역할이 되어야 합니다. 
 
-* **What is it good for?**: What types of problems does your project solve? What are the benefits of using it?
+* **아직 더 발전해야 하는 것은 어떤 것들이 있나요?**: 아직은 LLM 연구를 위한 하드웨어 비용과 연구 시간이 많이 걸리. LLM의 수준이 더 높아지고 서비스 비용이 더 낮아진다면, 챗봇은 더욱 유용해질 것입니다.
 
-* **What is it not good for?**: For example, point out situations that might intuitively seem suited for your project, but aren't for some reason. Also mention known limitations, scaling issues, or anything else that might let your users know if the project is not for them.
+## 무엇을 해야 하나요?
 
-* **What is it *not yet* good for?**: Highlight any useful features that are coming soon.
+아래 시작하기를 눌러 보세요!
 
-## Where should I go next?
-
-Give your users next steps from the Overview. For example:
-
-* [Getting Started](/docs/getting-started/): Get started with $project
-* [Examples](/docs/examples/): Check out some example code!
+* [시작하기](/docs/getting-started/): 챗봇 서비스를 시작하기
+* [예시](/docs/examples/): 다양한 예시들을 살펴 보세요!
 

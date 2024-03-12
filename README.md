@@ -12,6 +12,9 @@ deploy on github .. just workflow
 ---------------------------------------------
 Docsy 를 참조하여 만든 매뉴얼 웹사이트입니다. 상세 정보는 아래를 참조하세요.
 
+https://example.docsy.dev/
+
+
 **about Docsy ...
 
 [alternate dashboard]: https://app.netlify.com/sites/goldydocs/deploys

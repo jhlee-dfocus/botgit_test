@@ -10,36 +10,13 @@ resources:
       byline: "Photo: Jungho Lee / CC-BY-CA"
 ---
 
-This code translates to the right aligned tabbed pane below, showing a `Welcome!` greeting in English, German or Swahili:
-
-{{< tabpane text=true right=true >}}
-  {{% tab header="**Languages**:" disabled=true /%}}
-  {{% tab header="Korean" lang="ko" %}}
-  ![Flag Unitedddd Kingdom](featured-iquest1-get.png)
-  **Welcome!**
-  {{% /tab %}}
-  {{< tab header="German" lang="ko" >}}
-    <b>Herzlich willkommen!</b>
-    <img src="featured-iquest1-get.png" alt="Flag Germany" style="float: right; padding: 0 0 0 0px">
-  {{< /tab >}}
-  {{% tab header="Swahili" lang="sw" %}}
-  ![Flag Tanzania](./featured-iquest1-get.png)
-  **Karibu sana!**
-  {{% /tab %}}
-{{< /tabpane >}}
-
-## Including images
-
-이미지가 들어 가면 에러???
-blog 에는 잘도 들어 가는데???
-
 
 > 아래 각 고객 정보는 사전 동의하에 게시된 것이나, 이를 무단 복제하는 행위는 엄격하게 금지됩니다. 
 
 ## 아이퀘스트 ERP 상담봇
 
-[아이퀘스트](https://www.iquest.co.kr/)는 
-Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork belly 8-bit yuccie PBR&B. **I love this life we live in**.
+[아이퀘스트](https://www.iquest.co.kr/)는 얼마에요ERP를 비롯하여 인공지능 자동화 기능으로 편리한 사용할 수 있는 중소기업용 ERP를 합리적인 가격으로 제공하는 회사입니다. 아이퀘스트의 활성 가입자는 3만명 수준이고, 홈페이지 방문자 수는 월 10만을 넘어 가고 있습니다. 대 고객 상담사는 10명 이상으로, 
+
 
 
 
