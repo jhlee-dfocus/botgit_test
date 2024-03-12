@@ -19,6 +19,7 @@ resources:
 
 DfocusGPT 상담봇은 이러한 상담사의 역할 중에서 초기 대응 및 단순 답변을 자연어 기반으로 제공합니다.
 
+<img width="281" alt="image" src="https://github.com/dfocusgpt/dfocusgpt.github.io/assets/143764176/9bfa6b98-1dfd-468d-91b0-958de9e07167">
 
 
 ## 디포커스 홈페이지 챗봇
@@ -26,6 +27,8 @@ DfocusGPT 상담봇은 이러한 상담사의 역할 중에서 초기 대응 및
 [디포커스](https://dfocus.net/)는 Digital Data에 대한 글로벌 솔루션을 비롯하여 자체 솔루션을 기반으로 업계 최고 수준의 시스템 구축을 돕는 프로젝트들을 국내외 유수 업체들과 함께 진행한 경험을 가지고 있습니다. 
 
 오랜동안 축적된 솔루션 경험에 대하여 전문적으로 이해하고 설명하는 것은 심지어 디포커스 내부 전문가라 하더라도 쉽지 않은 일입니다. 그 지식의 내용이 너무 많기 때문입니다. 디포커스 홈페이지 챗봇은 디포커스의 축적된 솔루션 경험에 대한 답변을 자연어 기반으로 제공합니다.
+
+<img width="357" alt="image" src="https://github.com/dfocusgpt/dfocusgpt.github.io/assets/143764176/39a06ad2-60bc-4ea4-919c-86970939d36f">
 
 ----------------
 ### 주의
