@@ -4,9 +4,9 @@ linkTitle: 우리는
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="DfocusGPT에 대하여" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="DfocusGPT 챗봇 서비스" image_anchor="bottom" height="auto" %}}
 
-DfocusGPT의 챗봇 서비스를 시작합니다
+DfocusGPT 챗봇 서비스의 사용 설명서를 담고 있는 웹사이트입니다.
 
 {.mt-5}
 
@@ -14,13 +14,13 @@ DfocusGPT의 챗봇 서비스를 시작합니다
 
 {{% blocks/lead %}}
 
-DfocusGPT는 2024년 발전하는 LLM를 비롯한 인공지능 기술의 성과를 곧 바로 적용할 수 있도록 설계된 Saas형 서비스를 제공하기 위한 Dfocus의 새로운 브랜드입니다.
+DfocusGPT는 급격하게 발전한 LLM 기술을 비롯한 인공지능 기술의 성과를 각 기업 현장에 즉시 사용할 수 있도록 설계된 Saas형 서비스입니다.
 
 {{% /blocks/lead %}}
 
 {{% blocks/section %}}
 
-# gpt.dfocus.net 에서 바로 쓰는 상담형 ai 챗봇을 경험하세요
+# [gpt.dfocus.net](https://gpt.dfocus.net) 에서 바로 쓰는 상담형 ai 챗봇을 경험하세요. * 데모 서버스도 준비 중입니다.
 
 {.text-center}
 

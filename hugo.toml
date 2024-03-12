@@ -82,7 +82,7 @@ time_format_blog = "2006-01-02"
 section = ["HTML", "print", "RSS"]
 
 [params]
-privacy_policy = "https://policies.google.com/privacy"
+privacy_policy = "https://dfocus.net/?mode=privacy"
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
@@ -128,7 +128,7 @@ offlineSearch = false
 prism_syntax_highlighting = false
 
 [params.copyright]
-  authors = "Dfocus | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | "
+  authors = "Dfocus | "
   from_year = 2024
 
 # User interface configuration

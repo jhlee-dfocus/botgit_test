@@ -53,7 +53,7 @@ DfocusGPT는 새로운 코딩 작업이나 전문 지식의 학습이 필요하�
 DfocusGPT 앱 - 준비중!
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-twitter" title="디포커스 유튜브!"
+{{% blocks/feature icon="fab fa-youtube" title="디포커스 유튜브!"
     url="https://www.youtube.com/@dfocus_sns" %}}
 디포커스 유튜브를 살펴 보세요.
 {{% /blocks/feature %}}

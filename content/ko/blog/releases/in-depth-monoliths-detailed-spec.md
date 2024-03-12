@@ -20,5 +20,7 @@ description: >
 고객 사이트에서 챗봇을 사용합니다.  
 ![image](https://github.com/dfocusgpt/dfocusgpt.github.io/assets/143764176/1ef02d9b-5cf2-4664-b921-f05958bfe0d3)
 
+![alt text](image.png)
+
 ## 지식 정보 관리 기능 ##
 
