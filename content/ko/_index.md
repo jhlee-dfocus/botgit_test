@@ -6,12 +6,12 @@ title: DfocusGPT
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   설명서 <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" >Demo(준비중)<i class="fab ms-2 "></i>
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://www.dfocus.net">Dfocus 챗봇 체험<i class="fab ms-2 "></i>
 </a>
 
 ----------------
 
-<iframe width="900" height="700" src="https://www.youtube.com/embed/DOLJ-urTp94?si=yZqG3qrT7wSWR3T2&amp;controls=0&autoplay=1&mute=1&controls=0&loop=1&playlist=DOLJ-urTp94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1000" height="700" src="https://www.youtube.com/embed/DOLJ-urTp94?si=yZqG3qrT7wSWR3T2&amp;controls=0&autoplay=1&mute=1&controls=0&loop=1&playlist=DOLJ-urTp94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ----------------
 

@@ -36,7 +36,6 @@ _디포커스는 SeedAuth 라는 2차 인증 솔루션을 제공하고 있습니
 ----------------
 ### 주의
 
-{{% alert title="Note" %}}각 고객사 정보는 고객사와 사전동의를 거쳐서 게시되었으며, 고객사 동의없이 복제를 허용하지 않습니다.{{% /alert %}}
 {{< alert color="warning" title="Warning" >}}고객사 정보의 복제는 엄격하게 **금지**됩니다.{{< /alert >}}
 
 ### Contact Info
