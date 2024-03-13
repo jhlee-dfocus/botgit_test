@@ -171,6 +171,12 @@ enable = true
   desc = "Discussion and help from your fellow users"
 
 [[params.links.user]]
+  name ="디포커스 챗봇 유튜브"
+  url = "https://www.youtube.com/@DfcousGPT"
+  icon = "fab fa-youtube"
+  desc = "디포커스 챗봇 유튜브!"
+
+[[params.links.user]]
   name ="디포커스 링크드인"
   url = "https://www.linkedin.com/company/dfocus"
   icon = "fab fa-linkedin"
