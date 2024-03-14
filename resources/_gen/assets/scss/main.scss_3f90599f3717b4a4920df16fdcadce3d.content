@@ -409,7 +409,7 @@ progress {
   line-height: 1.2; }
   @media (min-width: 1200px) {
     .display-1 {
-      font-size: 5rem; } }
+      font-size: 5rem; padding:0 100px;} }
 .display-2 {
   font-size: calc(1.575rem + 3.9vw);
   font-weight: 300;
