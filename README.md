@@ -14,12 +14,17 @@ Docsy 를 참조하여 만든 매뉴얼 웹사이트입니다. 상세 정보는 
 
 https://example.docsy.dev/
 
+룩앤필 https://www.docsy.dev/docs/adding-content/lookandfeel/
+
+[Docsy user guide]: https://docsy.dev/docs
+
+
 
 **about Docsy ...
 
 [alternate dashboard]: https://app.netlify.com/sites/goldydocs/deploys
 [deploys]: https://app.netlify.com/sites/docsy-example/deploys
-[Docsy user guide]: https://docsy.dev/docs
+
 [Docsy]: https://github.com/google/docsy
 [example.docsy.dev]: https://example.docsy.dev
 [Hugo theme module]: https://gohugo.io/hugo-modules/use-modules/#use-a-module-for-a-theme
