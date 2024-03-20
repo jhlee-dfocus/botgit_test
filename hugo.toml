@@ -172,7 +172,7 @@ enable = true
 
 [[params.links.user]]
   name ="디포커스 챗봇 유튜브"
-  url = "https://www.youtube.com/@DfcousGPT"
+  url = "https://www.youtube.com/@DfocusGPT"
   icon = "fab fa-youtube"
   desc = "디포커스 챗봇 유튜브!"
 

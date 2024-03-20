@@ -1,5 +1,5 @@
 ---
-title: 상담사 화면
+title: 상담사 상담 화면
 description: >
   상담사는 상담 화면에서 고객의 '상담사 연결'에 응답합니다.
 date: 2024-01-05
@@ -44,5 +44,10 @@ sequenceDiagram
     Note right of 챗봇: 질문과 답변의 저장
     
     
-
 ```
+
+--------------------------
+
+* 아래 동영상은 사용자와 챗봇 간의 상담 시연입니다. 
+
+<iframe width="1000" height="700" src="https://www.youtube.com/embed/RW-2kjcbLGI?si=zoV89iY3H3PNS7yk&amp;controls=0&autoplay=1&mute=0&controls=0&loop=1&playlist=RW-2kjcbLGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
